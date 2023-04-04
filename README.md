@@ -13,18 +13,18 @@ Through the use of these 2 models, we will discuss practical examples of how NLP
 
 Speaker: **Rémy DECOUPES** - Research engineer UMR TETIS / INRAE
 
-remy dot decoupes at inrae dot fr
-
 -------------------
+
 Table of contents
 1. BERT
+
     1.1 NLP tasks with BERT
     1.2 Description of input
     1.3 Discription of output
     1.4 Fine-tuning
 2. ChatGPT
+
     2.1 Why use ChatGPT
     2.2 Using OpenAI API Key
     2.3 Paper-QA
     2.4 Reproducing Paper-QA with langchain
-    
