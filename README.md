@@ -23,7 +23,7 @@ Speaker: **Rémy DECOUPES** - Research engineer UMR TETIS / INRAE
 
     1.2 Description of input
 
-    1.3 Discription of output
+    1.3 Description of output
 
     1.4 Fine-tuning
 
@@ -34,5 +34,5 @@ Speaker: **Rémy DECOUPES** - Research engineer UMR TETIS / INRAE
     2.2 Using OpenAI API Key
 
     2.3 Paper-QA
-    
+
     2.4 Reproducing Paper-QA with langchain
