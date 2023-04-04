@@ -7,3 +7,6 @@ In this practical session, we will explore how NLP can help in the early detecti
 
 Through the use of these 2 models, we will discuss practical examples of how NLP can be applied in the One Health context, including case studies of outbreak detection and social media monitoring. Participants will have the opportunity to work with BERT and ChatGPT in hands-on exercises to gain practical experience with these powerful tools. By the end of the session, participants will have a deeper understanding of how NLP can be used in the One Health context and be equipped with the skills to apply these techniques in their own work.
 
+|   |   |   |   |
+|---|---|---|---|
+| <img src="https://mood-h2020.eu/wp-content/uploads/2020/10/logo_Mood_texte-dessous_CMJN_vecto-300x136.jpg" alt="mood"/> | <img src="https://www.murdoch.edu.au/ResourcePackages/Murdoch2021/assets/dist/images/logo.svg" alt="murdoch" /> | <img src="https://www.umr-tetis.fr/images/logo-header-tetis.png" alt="tetis"/> | <img src="https://www.inrae.fr/themes/custom/inrae_socle/logo.svg" alt="INRAE" /> |
