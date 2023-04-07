@@ -17,17 +17,17 @@ Speaker: **Rémy DECOUPES** - Research engineer UMR TETIS / INRAE
 
 ## Table of contents
 
-1. BERT
+[Chapter 1: BERT](nlp_pratical_session_BERT.ipynb): [Google colab link]()
 
-    1.1 NLP tasks with BERT
+    1.1 Introduction
 
-    1.2 Description of input
+    1.2 NLP tasks with BERT
 
-    1.3 Description of output
+    1.3 Diving into the model representations
 
-    1.4 Fine-tuning
+    1.4 1.4 Text generation with BERT
 
-2. ChatGPT
+[Chapter 2: ChatGPT](nlp_pratical_session_BERT.ipynb): [Google colab link]()
 
     2.1 Why use ChatGPT
 
