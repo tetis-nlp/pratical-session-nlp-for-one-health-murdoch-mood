@@ -11,7 +11,7 @@ Through the use of these 2 models, we will discuss practical examples of how NLP
 |---|---|---|---|
 | <img src="https://mood-h2020.eu/wp-content/uploads/2020/10/logo_Mood_texte-dessous_CMJN_vecto-300x136.jpg" alt="mood"/> | <img src="https://www.murdoch.edu.au/ResourcePackages/Murdoch2021/assets/dist/images/logo.svg" alt="murdoch" /> | <img src="https://www.umr-tetis.fr/images/logo-header-tetis.png" alt="tetis"/> | <img src="https://www.inrae.fr/themes/custom/inrae_socle/logo.svg" alt="INRAE" /> |
 
-Speaker: 
+Speakers: 
 
 - **Rémy DECOUPES** - Research engineer UMR TETIS / INRAE
 - **Maguelonne TEISSEIRE** - Prof. UMR TETIS / INRAE
@@ -22,20 +22,20 @@ Speaker:
 
 [Chapter 1: BERT](nlp_pratical_session_BERT.ipynb): [Google colab link]()
 
-1.1 Introduction
+    1.1 Introduction
 
-1.2 NLP tasks with BERT
+    1.2 NLP tasks with BERT
 
-1.3 Diving into the model representations
+    1.3 Diving into the model representations
 
-1.4 1.4 Text generation with BERT
+    1.4 1.4 Text generation with BERT
 
 [Chapter 2: ChatGPT](nlp_pratical_session_BERT.ipynb): [Google colab link]()
 
-2.1 Why use ChatGPT
+    2.1 Why use ChatGPT
 
-2.2 Using OpenAI API Key
+    2.2 Using OpenAI API Key
 
-2.3 Paper-QA
+    2.3 Paper-QA
 
-2.4 Reproducing Paper-QA with langchain
+    2.4 Reproducing Paper-QA with langchain
