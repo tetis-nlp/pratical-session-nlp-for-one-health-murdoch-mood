@@ -30,7 +30,7 @@ Speakers:
 
     1.4 Text generation with BERT
 
-[Chapter 2: ChatGPT](nlp_pratical_session_BERT.ipynb): [Google colab link]()
+[Chapter 2: ChatGPT](nlp_pratical_session_BERT.ipynb): [Google colab link](https://colab.research.google.com/drive/11lA1lOiQtWDEXa7RfPS4Dkiax_H1vyM4?usp=sharing)
 
     2.1 Requirements
 
