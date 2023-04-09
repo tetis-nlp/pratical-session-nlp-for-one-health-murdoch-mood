@@ -38,4 +38,6 @@ Speakers:
 
     2.3 Langchain
 
-    2.4 Paper-QA
+    2.4 Hallucination
+
+    2.5 Paper-QA
