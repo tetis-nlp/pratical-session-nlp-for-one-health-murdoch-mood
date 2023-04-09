@@ -28,14 +28,14 @@ Speakers:
 
     1.3 Diving into the model representations
 
-    1.4 1.4 Text generation with BERT
+    1.4 Text generation with BERT
 
 [Chapter 2: ChatGPT](nlp_pratical_session_BERT.ipynb): [Google colab link]()
 
-    2.1 Why use ChatGPT
+    2.1 Requirements
 
-    2.2 Using OpenAI API Key
+    2.2 Text generation with ChatGPT
 
-    2.3 Paper-QA
+    2.3 Langchain
 
-    2.4 Reproducing Paper-QA with langchain
+    2.4 Paper-QA
