@@ -20,7 +20,7 @@ Speakers:
 
 ## Table of contents
 
-[Chapter 1: BERT](nlp_pratical_session_BERT.ipynb): [Google colab link]()
+[Chapter 1: BERT](nlp_pratical_session_BERT.ipynb): [Google colab link](https://colab.research.google.com/drive/1hYV-jKzyxNt-OfqivTb-IaUXe0icjrQa?usp=sharing)
 
     1.1 Introduction
 
