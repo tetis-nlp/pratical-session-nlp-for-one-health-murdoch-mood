@@ -13,7 +13,7 @@ Through the use of these 2 models, we will discuss practical examples of how NLP
 
 |   |   |   |   |
 |---|---|---|---|
-| <img src="https://mood-h2020.eu/wp-content/uploads/2020/10/logo_Mood_texte-dessous_CMJN_vecto-300x136.jpg" alt="mood"/> | <img src="https://www.murdoch.edu.au/ResourcePackages/Murdoch2021/assets/dist/images/logo.svg" alt="murdoch" /> | <img src="https://www.umr-tetis.fr/images/logo-header-tetis.png" alt="tetis"/> | <img src="https://www.inrae.fr/themes/custom/inrae_socle/logo.svg" alt="INRAE" /> |
+| <a href="https://mood-h2020.eu/"><img src="https://mood-h2020.eu/wp-content/uploads/2020/10/logo_Mood_texte-dessous_CMJN_vecto-300x136.jpg" alt="mood"/></a> | <a href="https://www.murdoch.edu.au/"><img src="https://www.murdoch.edu.au/ResourcePackages/Murdoch2021/assets/dist/images/logo.svg" alt="murdoch" /></a> | <a href="https://www.umr-tetis.fr"><img src="https://www.umr-tetis.fr/images/logo-header-tetis.png" alt="tetis"/></a> | <a href="https://www.inrae.fr"><img src="https://www.inrae.fr/themes/custom/inrae_socle/logo.svg" alt="INRAE" /></a> |
 
 Speakers: 
 
