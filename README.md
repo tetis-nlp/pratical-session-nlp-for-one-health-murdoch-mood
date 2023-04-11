@@ -1,3 +1,7 @@
+[![DOI](https://zenodo.org/badge/626308079.svg)](https://zenodo.org/badge/latestdoi/626308079)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
+
 <H1 style="text-align: center;">NLP for One Health</H1>
 <h3 style="text-align: center;">From BERT to ChatGPT</h3>
 

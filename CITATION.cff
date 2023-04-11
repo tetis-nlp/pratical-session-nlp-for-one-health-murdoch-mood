@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this repository for your research, please consider citing it as follows:"
+title: "Practical Session NLP for One Health"
+version: "1.0.0"
+authors: [
+  {
+    given-names: "Rémy",
+    family-names: "Decoupes",
+    orcid: "0000-0003-0863-9581",
+    email: "remy.decoupes@inrae.fr",
+    affiliation: "UMR TETIS / INRAE"
+  },
+  {
+    given-names: "Maguelonne",
+    family-names: "Teisseire",
+    orcid: "0000-0001-9313-6414",
+    email: "maguelonne.teisseire@inrae.fr",
+    affiliation: "UMR TETIS / INRAE"
+  }
+]
+repository-code: "https://github.com/tetis-nlp/pratical-session-nlp-for-one-health-murdoch-mood"
+doi: "10.5281/zenodo.7817685"
+license: "GNU GPLv3"
