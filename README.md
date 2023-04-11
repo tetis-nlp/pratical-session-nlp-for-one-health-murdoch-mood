@@ -52,6 +52,7 @@ Speakers:
 
 ## Cite this work
 
+```latex
 @software{Decoupes_Practical_Session_NLP,
     author = {Decoupes, Rémy and Teisseire, Maguelonne},
     doi = {10.5281/zenodo.7817685},
@@ -60,3 +61,4 @@ Speakers:
     url = {https://github.com/tetis-nlp/pratical-session-nlp-for-one-health-murdoch-mood},
     version = {1.0.0}
 }
+```
